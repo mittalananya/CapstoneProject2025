@@ -1,5 +1,3 @@
-![odel 2](https://github.com/user-attachments/assets/84e6027d-0e9b-4210-9c9b-c5a0c1dde2f0)
-![model 1](https://github.com/user-attachments/assets/39ea1615-12d8-4403-b292-46a23c6a187a)
 Dynamic Pricing for Urban Parking Lots
 
 Summer Analytics 2025 Capstone Project
@@ -149,12 +147,14 @@ Model 1 Results
 - Average Price: $12.50
 - Price Variance: Low (smooth linear progression)
 - Response Time: Immediate occupancy-based adjustments
+![model 1](https://github.com/user-attachments/assets/39ea1615-12d8-4403-b292-46a23c6a187a)
 
 Model 2 Results  
 - Average Price: $13.75
 - Price Variance: Higher (multi-factor responsiveness)
 - Demand Correlation: Strong correlation with external factors
 - Peak Hour Premium: 15-20% price increase during rush hours
+![model 1](https://github.com/user-attachments/assets/39ea1615-12d8-4403-b292-46a23c6a187a)
 
 Business Impact
 - Utilization Optimization: Reduced overcrowding during peak hours
